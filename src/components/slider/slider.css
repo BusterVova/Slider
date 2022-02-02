@@ -29,8 +29,6 @@
     top:9em;
     width: 30%;
     height: 80%;
-    /*border-radius: 50%;*/
-    /*background: #f1f1f1;*/
     border: 1px solid rgba(34, 34, 34, 0.287);
     position: absolute;
     display: flex;
@@ -45,15 +43,9 @@
     height: 25px;
     pointer-events: none;
 }
-.prev {
-    /*top: 50%;*/
-    /*left: 20px;*/
-    /*transform: translateY(-60%);*/
-}
+
 .next {
-    /*top: 50%;*/
     right: 0px;
-    /*transform: translateY(-60%);*/
 }
 
 
